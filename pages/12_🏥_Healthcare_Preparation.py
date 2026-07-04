@@ -96,7 +96,7 @@ st.divider()
 st.header("📸 Dataset Preview")
 
 st.image(
-    "dashboards/healthcare.png",
+    "dashboards/Healthcare.png",
     caption="Healthcare Master Dataset",
     use_container_width=True
 )
