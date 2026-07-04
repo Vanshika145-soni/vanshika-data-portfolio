@@ -87,7 +87,7 @@ projects = [
     {
         "title": "Healthcare Data Preparation",
         "category": "Data Preparation",
-        "image": "dashboards/healthcare.png",
+        "image": "dashboards/Healthcare.png",
         "desc": "Built a unified healthcare dataset by integrating multiple healthcare datasets using data cleaning, standardization, merging, and Excel validation.",
         "tools": ["Excel", "Python", "Data Cleaning", "Data Integration"],
         "skills": "Data Cleaning • Data Integration • Excel",
